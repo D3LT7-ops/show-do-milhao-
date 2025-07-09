@@ -1,0 +1,28 @@
+{
+  "name": "show-do-milhao",
+  "version": "1.0.0",
+  "description": "Jogo de perguntas e respostas inspirado no Show do Milhão",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js",
+    "play": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jogo",
+    "quiz",
+    "perguntas",
+    "respostas",
+    "show-do-milhao",
+    "node",
+    "javascript"
+  ],
+  "author": "Helberth Renan Gomes De Sousa",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
