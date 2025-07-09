@@ -46,7 +46,7 @@
 
 ### Node.js instalado (versão 12 ou superior)
 ### Terminal/CMD/PowerShell
-### observaçao arquivo de ranking.json e criado automaticamente > ja deixei um que eu mesmo criei conforme fui respondendo as alternativas.
+### Observaçao:Arquivo de ranking.json e criado automaticamente > ja deixei um que eu mesmo criei conforme fui respondendo as alternativas.
 
 # Créditos - Fontes de Referência Utilizadas
 
