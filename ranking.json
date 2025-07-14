@@ -12,5 +12,26 @@
     "rodada": 4,
     "data": "09/07/2025",
     "hora": "02:18:24"
+  },
+  {
+    "nome": "renan",
+    "premio": 0,
+    "rodada": 1,
+    "data": "09/07/2025",
+    "hora": "20:24:10"
+  },
+  {
+    "nome": "clear",
+    "premio": 0,
+    "rodada": 1,
+    "data": "09/07/2025",
+    "hora": "20:27:13"
+  },
+  {
+    "nome": "renan",
+    "premio": 0,
+    "rodada": 1,
+    "data": "14/07/2025",
+    "hora": "18:39:21"
   }
 ]
